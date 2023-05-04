@@ -19,5 +19,7 @@ namespace WebApp.Pages.Users.Posts
         {
             BlogPost = applicationDbContext.BlogPosts.Find(id);
         }
+
+        
     }
 }

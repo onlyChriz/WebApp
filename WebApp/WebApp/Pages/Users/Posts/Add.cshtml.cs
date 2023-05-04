@@ -10,7 +10,7 @@ namespace WebApp.Pages.Users.Posts
         [BindProperty]
         public AddBlogPost AddPostRequest { get; set; }
 
-        public ApplicationDbContext ApplicationDbContext { get; set; }
+        public ApplicationDbContext ApplicationDbContext { get; }
 
         public AddModel(ApplicationDbContext context)
         {
@@ -33,7 +33,7 @@ namespace WebApp.Pages.Users.Posts
             ApplicationDbContext.BlogPosts.Add(post);
             ApplicationDbContext.SaveChanges();
 
-            return RedirectToAction("");
+            return RedirectToPage("/Users/Posts/Lists");
 
         }
     }
