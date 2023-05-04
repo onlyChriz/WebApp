@@ -1,5 +1,5 @@
 html {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 @media (min-width: 768px) {
@@ -13,19 +13,32 @@ html {
   min-height: 100%;
 }
 
+.display-4 {
+    color: #7c795d;
+    font-family: Helvetica Neue;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 48px;
+    margin: 0;
+    text-align: right;
+}
+
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 1.6;
+    text-align: left;
 }
 
 .sidebar {
     display: flex;
-    background-color:grey
+    background-color: #c2c9cf
 }
 
 .sidebar__sidebar {
-    width: 30%;
-    display:flex;
-    background-color:lightyellow
+    width: 20%;
+    background-color: #c2c9cf
 }
 
 .sidebar__main {
@@ -33,4 +46,25 @@ body {
     flex: 1;
     /* Make it scrollable */
     overflow: auto;
+    background-color: #F5F8FA;
+    text-align: left;
+}
+
+.post-body {
+    position: relative;
+    width: auto;
+    min-height: 65px;
+    padding: 15px;
+    background: #fff;
+    border-radius: 5px;
+    border: 0.8px #ccc;
+}
+
+.post-date {
+    text-align:right;
+}
+
+.empty-bar {
+    display:block;
+    height:20px;
 }

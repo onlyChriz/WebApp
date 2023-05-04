@@ -4,22 +4,50 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/wwwroot/css/site.css">
     <Files>
+      <File FileName="WebApp/wwwroot/css/site.css" Line="41" Column="30" />
+      <File FileName="WebApp/Pages/Index.cshtml" Line="21" Column="52" />
+      <File FileName="WebApp/Pages/Models/Domain/Posts.cs" Line="9" Column="23" />
+      <File FileName="WebApp/API/Controllers/ValuesController.cs" Line="5" Column="18" />
       <File FileName="WebApp/Pages/Users/Posts/Edit.cshtml" Line="1" Column="1" />
-      <File FileName="WebApp/appsettings.json" Line="15" Column="2" />
-      <File FileName="WebApp/Program.cs" Line="44" Column="1" />
-      <File FileName="WebApp/appsettings.Development.json" Line="10" Column="1" />
-      <File FileName="WebApp/Pages/Users/Posts/Edit.cshtml.cs" Line="9" Column="10" />
+      <File FileName="WebApp/Pages/Users/Posts/Lists.cshtml" Line="23" Column="50" />
+      <File FileName="WebApp/Pages/Users/Posts/Lists.cshtml.cs" Line="21" Column="2" />
+      <File FileName="WebApp/Data/ApplicationDbContext.cs" Line="13" Column="33" />
+      <File FileName="WebApp/Pages/Privacy.cshtml" Line="9" Column="1" />
+      <File FileName="WebApp/Data/BlogPosts.cs" Line="11" Column="23" />
+      <File FileName="WebApp/Pages/ViewHolder/AddBlogPost.cs" Line="1" Column="1" />
+      <File FileName="WebApp/Pages/Index.cshtml.cs" Line="21" Column="6" />
+      <File FileName="WebApp/Pages/Shared/_Layout.cshtml" Line="23" Column="34" />
+      <File FileName="WebApp/Pages/Users/Posts/Add.cshtml" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebApp" expanded="True">
             <Node name="WebApp" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Models" selected="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Domain" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+                <Node name="Users" expanded="True">
+                  <Node name="Posts" expanded="True">
+                    <Node name="Lists.cshtml" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ViewHolder" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True" />
+                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>

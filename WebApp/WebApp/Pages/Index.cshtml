@@ -5,7 +5,7 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Share your thoughts</h1>
     <div class="sidebar">
         <!-- Sidebar -->
         <aside class="sidebar__sidebar">
@@ -13,6 +13,18 @@
         </aside>
 
         <!-- Main -->
-        <main class="sidebar__main">...</main>
+        <main class="sidebar__main">
+            <div>
+                @foreach (var post in Model.BlogPosts)
+                {
+                    <div class="post-body">
+                        <h5 class="author">Author: @post.Author</h5>
+                        <p class="post-content">@post.Content</p>
+                        <p class="post-date">@post.PublishedDate</p>
+                    </div>
+                    <div class="empty-bar"></div>
+                }
+            </div>
+        </main>
     </div>
 </div>
