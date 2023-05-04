@@ -2449,31 +2449,30 @@
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.15",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.15",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.15",
+      "Microsoft.EntityFrameworkCore >= 6.0.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.15"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boffe\\.nuget\\packages\\": {}
+    "/Users/juliasong/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
+      "projectPath": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/WebApp.csproj",
+      "packagesPath": "/Users/juliasong/.nuget/packages/",
+      "outputPath": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/juliasong/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2501,6 +2500,10 @@
             "version": "[6.0.15, )"
           },
           "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[6.0.15, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.15, )"
           },
@@ -2532,7 +2535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

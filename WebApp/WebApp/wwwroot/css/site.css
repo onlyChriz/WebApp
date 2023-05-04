@@ -16,3 +16,21 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.sidebar {
+    display: flex;
+    background-color:grey
+}
+
+.sidebar__sidebar {
+    width: 30%;
+    display:flex;
+    background-color:lightyellow
+}
+
+.sidebar__main {
+    /* Take the remaining width */
+    flex: 1;
+    /* Make it scrollable */
+    overflow: auto;
+}
