@@ -2,7 +2,11 @@
 @model WebApp.Pages.Users.Posts.AddModel
 @{
 }
-
+<div class="bg-secondary bg-opacity-10 py-2 mb-5">
+    <div class="container">
+        <h1>Add Post</h1>
+    </div>
+</div>
 
 <div>
     <div class="container">
@@ -10,12 +14,12 @@
 
             <div class="mb-3">
                 <label for="title" class="form-label">Title</label>
-                <input type="text"  class="form-control" id="title" />
+                <input type="text" class="form-control" id="title" asp-for="AddPostRequest.PageTitle"/>
             </div>
 
             <div class="mb-3">
-                <label for="heading" class="form-label">Content</label>
-                <textarea class="form-control" id="content" ></textarea>
+                <label for="content" class="form-label">Content</label>
+                <textarea class="form-control" id="content" asp-for="AddPostRequest.Content"></textarea>
             </div>
 
            <!-- To add Image and URLHandle
@@ -30,8 +34,13 @@
              </div> -->
 
             <div class="mb-3">
+                <label for="publishedDate " class="form-label">Published Date</label>
+                <input type="date" class="form-control" id="publishedDate" asp-for="AddPostRequest.PublishedDate">
+            </div>
+
+            <div class="mb-3">
                 <label for="author" class="form-label">Author</label>
-                <input type="text" class="form-control" id="author">
+                <input type="text" class="form-control" id="author" asp-for="AddPostRequest.Author">
             </div>
 
             <div class="mb-3">
