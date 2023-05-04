@@ -2454,19 +2454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boffe\\.nuget\\packages\\": {}
+    "C:\\Users\\Amand\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Amand\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\Amand\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\Amand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amand\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amand\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
