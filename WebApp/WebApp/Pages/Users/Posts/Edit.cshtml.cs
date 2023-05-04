@@ -20,6 +20,24 @@ namespace WebApp.Pages.Users.Posts
             BlogPost = applicationDbContext.BlogPosts.Find(id);
         }
 
+        public IActionResult OnPost()
+        {
+            var updatedPost = applicationDbContext.BlogPosts.Find(BlogPost.Id);
+
+            if (updatedPost != null) 
+            {
+                updatedPost.PageTitle = BlogPost.PageTitle;
+                updatedPost.Content = BlogPost.Content;
+                updatedPost.PublishedDate = BlogPost.PublishedDate;
+                updatedPost.Author = BlogPost.Author;
+            }
+
+            applicationDbContext.SaveChanges();
+
+
+            return RedirectToPage("/Users/Posts/Lists");
+        }
+
         
     }
 }
