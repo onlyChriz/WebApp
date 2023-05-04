@@ -2,7 +2,11 @@
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace WebApp.Controllers
+<<<<<<<< Updated upstream:WebApp/WebApp/API/Controllers/ValuesController.cs
+namespace WebApp.API.Controllers
+========
+namespace WebApp.Api.Controllers
+>>>>>>>> Stashed changes:WebApp/WebApp/Api/Controllers/ValuesController.cs
 {
     [Route("api/[controller]")]
     [ApiController]

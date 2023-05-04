@@ -47,15 +47,4 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation\, API och Klient /WebApp/WebApp/WebApp/Pages/Users/Posts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvUG9zdHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation\, API och Klient /WebApp/WebApp/WebApp/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation\, API och Klient /WebApp/WebApp/WebApp/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation\, API och Klient /WebApp/WebApp/WebApp/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-qeb871jn8t
+]
