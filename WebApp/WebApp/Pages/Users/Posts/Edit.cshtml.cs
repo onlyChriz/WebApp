@@ -20,7 +20,7 @@ namespace WebApp.Pages.Users.Posts
             BlogPost = applicationDbContext.BlogPosts.Find(id);
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPostEdit()
         {
             var updatedPost = applicationDbContext.BlogPosts.Find(BlogPost.Id);
 
@@ -38,6 +38,22 @@ namespace WebApp.Pages.Users.Posts
             return RedirectToPage("/Users/Posts/Lists");
         }
 
-        
+        public IActionResult OnPostDelete()
+        {
+            var existingBlogPost = applicationDbContext.BlogPosts.Find(BlogPost.Id);
+
+            if (existingBlogPost != null)
+            {
+                applicationDbContext.BlogPosts.Remove(existingBlogPost);
+                applicationDbContext.SaveChanges();
+
+                return RedirectToPage("/Users/Posts/Lists");
+            }
+
+
+            return Page();
+        }
+
+
     }
 }
