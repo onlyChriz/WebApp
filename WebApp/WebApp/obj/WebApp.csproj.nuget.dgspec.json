@@ -61,6 +61,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.15, )"
+            },
+            "Microsoft.PowerShell.ConsoleHost": {
+              "target": "Package",
+              "version": "[6.2.7, )"
+            },
+            "NuGet.PackageManagement": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

@@ -1,26 +1,26 @@
-html {
-  font-size: 13px;
-}
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
+
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    height: 100%;
+    font-size: 13px;
+    color: #2272FF;
 }
 
 .display-4 {
-    color: #7c795d;
-    font-family: Helvetica Neue;
-    font-size: 45px;
+    font-family: cursive;
+    color: grey;
     font-weight: bold;
     line-height: 48px;
-    margin: 0;
-    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: left;
 }
 
 body {
@@ -31,40 +31,138 @@ body {
     text-align: left;
 }
 
-.sidebar {
+.wrapper {
     display: flex;
-    background-color: #c2c9cf
+    height: 100%;
+
 }
 
-.sidebar__sidebar {
-    width: 20%;
-    background-color: #c2c9cf
+.h6 {
+    margin-bottom:30px;
 }
 
-.sidebar__main {
-    /* Take the remaining width */
-    flex: 1;
-    /* Make it scrollable */
-    overflow: auto;
-    background-color: #F5F8FA;
-    text-align: left;
+.sidebar {
+    background-color: #F2F3F5;
+    border-radius: 8px;
+    flex: 0.20;
+    transition: 0.3s;
+    padding: 20px;
+    margin-right: 20px;
 }
 
-.post-body {
+    .sidebar:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .sidebar h3 {
+        font-family: cursive;
+        color: grey;
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .sidebar a {
+        display: flex;
+        border: none;
+        margin-bottom: 10px;
+        text-decoration: blink;
+        text-align:center;
+        color: grey;
+        font-weight: bold;
+        font-family: Verdana;
+    }
+
+    #createPost {
+        background-color:#357960;
+        color:white;
+        border-radius:20px;
+    }
+
+    .sidebar a.active button.active {
+        font-weight: bold;
+    }
+
+.fa {
+    margin-right: 20px;
+}
+
+
+.main {
+    background-color: white;
+    flex: 0.7;
+    border-radius: 8px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.post-card {
+    border-radius: 8px;
+    box-shadow: 0 0 5px #ccc;
+    padding: 10px;
+    margin-left:10px;
+    margin-bottom: 20px;
+    flex-basis: calc(33.33% - 20px);
+    box-sizing: border-box;
     position: relative;
-    width: auto;
-    min-height: 65px;
-    padding: 15px;
-    background: #fff;
-    border-radius: 5px;
-    border: 0.8px #ccc;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
 }
 
-.post-date {
-    text-align:right;
+    .post-card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+.post-title {
+    color: #357960;
 }
 
-.empty-bar {
-    display:block;
-    height:20px;
+.post-title, .post-content {
+    margin: 10px;
 }
+
+.post-like:hover {
+    background-color: #3e8e41;
+}
+
+.post-date, .post-author {
+    text-align: right;
+    margin: 10px;
+}
+
+
+
+.testmonial-wrapper {
+    background: #eaf0fc;
+    box-shadow: 0 2px 5px 0 rgba(173, 181, 189, 0.4) !important;
+    border-radius: 0.2rem;
+    padding: 0 20px 20px;
+    margin-bottom: 60px;
+}
+
+    .testmonial-wrapper:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .testmonial-wrapper img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin-bottom: 15px;
+        -webkit-transform: translateY(-45px);
+        -ms-transform: translateY(-45px);
+        transform: translateY(-45px);
+        background: white;
+        padding: 5px;
+    }
+
+    .testmonial-wrapper .title {
+        margin-top: -40px;
+    }
+
