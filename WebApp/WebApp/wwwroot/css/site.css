@@ -135,3 +135,8 @@ body {
     margin: 10px;
 }
 
+.icon-link:hover h4.post-title {
+    color: red; /* Change the color to your desired value */
+}
+
+

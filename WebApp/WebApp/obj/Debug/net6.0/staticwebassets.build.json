@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mpW2nI0UEvaPvhww9Zon8PNnUgFXkXzI4INolnlhLyo=",
+  "Hash": "5erHweJaUwMK2UFlxczALnxoQoRgz+IAt6/8cn6udOM=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\PopUp.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/PopUp.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\PopUp.css"
+    },
+    {
+      "Identity": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\site - Copy.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/site - Copy.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site - Copy.css"
     },
     {
       "Identity": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\site.css",

@@ -20,6 +20,41 @@ namespace WebApp.Pages.Users.Posts
             BlogPost = applicationDbContext.BlogPosts.Find(id);
         }
 
-        
+        public IActionResult OnPostEdit()
+        {
+            var updatedPost = applicationDbContext.BlogPosts.Find(BlogPost.Id);
+
+            if (updatedPost != null)
+            {
+                updatedPost.PageTitle = BlogPost.PageTitle;
+                updatedPost.Content = BlogPost.Content;
+                updatedPost.PublishedDate = BlogPost.PublishedDate;
+                updatedPost.Author = BlogPost.Author;
+            }
+
+            applicationDbContext.SaveChanges();
+
+
+            return Redirect("/Index");
+        }
+
+        public IActionResult OnPostDelete()
+        {
+            var existingBlogPost = applicationDbContext.BlogPosts.Find(BlogPost.Id);
+
+            if (existingBlogPost != null)
+            {
+                applicationDbContext.BlogPosts.Remove(existingBlogPost);
+                applicationDbContext.SaveChanges();
+
+                return Redirect("/Index");
+
+            }
+
+            return Redirect("/Index");
+
+        }
+
+
     }
 }

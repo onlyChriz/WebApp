@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\PopUp.css",
+      "PackagePath": "staticwebassets\\css\\PopUp.css"
+    },
+    {
+      "Id": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\site - Copy.css",
+      "PackagePath": "staticwebassets\\css\\site - Copy.css"
+    },
+    {
       "Id": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

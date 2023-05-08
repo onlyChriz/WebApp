@@ -1,4 +1,12 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.querySelector('.post-body').addEventListener('click', function (event) {
+    var clickedElement = event.target;
 
-// Write your JavaScript code.
+    if (clickedElement.classList.contains('post-card')) {
+        var postLink = clickedElement.querySelector('a').getAttribute('href');
+        navigateToURL(postLink);
+    }
+});
+
+function navigateToURL(url) {
+    window.location.href = url;
+}

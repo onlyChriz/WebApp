@@ -1,7 +1,7 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home";
 
 }
 
@@ -20,6 +20,8 @@
                 <h3>MENU</h3>
                 <a href="#section1" class="btn btn-outline-success"><i class="fa fa-home" style="font-size: 24px; color: #B4F8C8"></i>View posts</a>
                 <a href="/Users/Posts/Add" id="createPost" class="btn btn-outline-success"><i class="fa fa-location-arrow" style="font-size:24px; color: #B4F8C8"></i>Create Post</a>
+                <a href="/Users/Posts/Lists" id="createPost" class="btn btn-outline-success"><i class="fa fa-location-arrow" style="font-size:24px; color: #B4F8C8"></i>Post Lists</a>
+
             </div>
 
         </div>
@@ -32,7 +34,7 @@
                     @foreach (var post in Model.BlogPosts)
                     {
                         <div class="post-card">
-                            <a href="/Users/Posts/Edit/@post.Id" style="text-decoration: none"><h4 class="post-title">@post.PageTitle</h4></a>
+                            <a  href="/Users/Posts/Edit/@post.Id" style="text-decoration: none"><h4 class="post-title">@post.PageTitle</h4></a>
                             <p class="post-content">@post.Content</p>
                             <p class="post-author">Created by @post.Author</p>
                             <p class="post-date">@post.PublishedDate</p>
