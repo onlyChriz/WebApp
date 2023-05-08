@@ -2,9 +2,55 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <!-- Main Posts -->
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div>
+                <h3>MENU</h3>
+                <a href="#section1" class="btn btn-outline-success"><i class="fa fa-home" style="font-size: 24px; color: #B4F8C8"></i>View posts</a>
+                <a href="/Users/Posts/Add" id="createPost" class="btn btn-outline-success"><i class="fa fa-location-arrow" style="font-size:24px; color: #B4F8C8"></i>Create Post</a>
+            </div>
+
+        </div>
+
+        <!-- Main -->
+
+        <main class="main">
+            <section id="section1">
+                <div class="post-body">
+                    @foreach (var post in Model.BlogPosts)
+                    {
+                        <div class="post-card">
+                            <a href="/Users/Posts/Edit/@post.Id" style="text-decoration: none"><h4 class="post-title">@post.PageTitle</h4></a>
+                            <p class="post-content">@post.Content</p>
+                            <p class="post-author">Created by @post.Author</p>
+                            <p class="post-date">@post.PublishedDate</p>
+                            <!-- Like function?
+                            <button type="button" class="w3-button w3-theme-d5 w3-margin-bottom">Like</button>
+                            -->
+                        </div>
+                    }
+                </div>
+            </section>
+        </main>
+    </div>
+
+</body>
+</html>
+
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2023 - WebApp - Christoffer, Amanda, Oli, Jiaojiao - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>

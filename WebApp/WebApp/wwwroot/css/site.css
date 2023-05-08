@@ -1,19 +1,30 @@
-html {
-  font-size: 14px;
-}
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
+
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    height: 100%;
+    font-size: 13px;
+    color: #2272FF;
+}
+
+.display-4 {
+    font-family: cursive;
+    color: grey;
+    font-weight: bold;
+    line-height: 48px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: left;
 }
 
 body {
+
   margin-bottom: 60px;
 }
 
@@ -22,5 +33,115 @@ body {
 }
 
 #heading{
-    background-color:none;
+
+    margin-bottom: 60px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 1.6;
+    text-align: left;
 }
+
+.wrapper {
+    display: flex;
+    height: 100%;
+}
+
+.h6 {
+    margin-bottom: 30px;
+}
+
+.sidebar {
+    background-color: #F2F3F5;
+    border-radius: 8px;
+    flex: 0.20;
+    transition: 0.3s;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+    .sidebar:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .sidebar h3 {
+        font-family: cursive;
+        color: grey;
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .sidebar a {
+        display: flex;
+        border: none;
+        margin-bottom: 10px;
+        text-decoration: blink;
+        text-align: center;
+        color: grey;
+        font-weight: bold;
+        font-family: Verdana;
+    }
+
+#createPost {
+    background-color: #357960;
+    color: white;
+    border-radius: 20px;
+}
+
+.sidebar a.active button.active {
+    font-weight: bold;
+}
+
+.fa {
+    margin-right: 20px;
+}
+
+
+.main {
+    background-color: white;
+    flex: 0.7;
+    border-radius: 8px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.post-card {
+    border-radius: 8px;
+    box-shadow: 0 0 5px #ccc;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    flex-basis: calc(33.33% - 20px);
+    box-sizing: border-box;
+    position: relative;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+}
+
+    .post-card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+.post-title {
+    color: #357960;
+}
+
+.post-title, .post-content {
+    margin: 10px;
+}
+
+.post-like:hover {
+    background-color: #3e8e41;
+}
+
+.post-date, .post-author {
+    text-align: right;
+    margin: 10px;
+}
+
