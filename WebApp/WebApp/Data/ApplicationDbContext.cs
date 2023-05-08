@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WebAppAPI.Models.Domain;
+using WebApp.Pages.Models;
 
 namespace WebApp.Data
 {

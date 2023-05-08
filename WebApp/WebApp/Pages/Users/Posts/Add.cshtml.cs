@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WebApp.Data;
+using WebApp.Pages.Models;
 using WebApp.Pages.ViewHolder;
 
 namespace WebApp.Pages.Users.Posts

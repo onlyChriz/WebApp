@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#content{
+    height:100px;
+}
+
+#heading{
+    background-color:none;
+}

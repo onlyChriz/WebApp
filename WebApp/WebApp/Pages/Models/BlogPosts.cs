@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApp.Data
+namespace WebApp.Pages.Models
 {
     public class BlogPosts
     {
