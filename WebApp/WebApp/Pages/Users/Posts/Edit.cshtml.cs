@@ -15,7 +15,7 @@ namespace WebApp.Pages.Users.Posts
             this.applicationDbContext = applicationDbContext;
         }
 
-        public void OnGet(Guid id)
+        public void OnGet(int id)
         {
             BlogPost = applicationDbContext.BlogPosts.Find(id);
         }
