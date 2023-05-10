@@ -4,13 +4,7 @@
 }
 
 
-<div class="bg-secondary bg-opacity-10 py-2 mb-5">
-    <div class="container">
-        <h1>Posts</h1>
-    </div>
-</div>
-
-<div class="container">
+<div class="post-card">
     <table class="table">
         <thead>
             <tr>
@@ -25,7 +19,8 @@
                 <tr>
                     <td>@blogpost.PageTitle</td>
                     <td>@blogpost.Author</td>
-                    <td><a href="/Users/Posts/Edit/@blogpost.Id">View</a></td>
+                    <td><a class="btn btn-primary" role="button" href="/Users/Posts/Edit/@blogpost.Id">View</a></td>
+
                 </tr>
             }
         </tbody>

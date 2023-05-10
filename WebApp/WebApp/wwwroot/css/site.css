@@ -38,8 +38,8 @@ body {
 }
 
 .h6 {
-    margin-bottom:30px;
-}
+    margin-bottom:30px;}
+
 
 .sidebar {
     background-color: #F2F3F5;
@@ -48,6 +48,9 @@ body {
     transition: 0.3s;
     padding: 20px;
     margin-right: 20px;
+
+    height:700px;
+
 }
 
     .sidebar:hover {
@@ -85,6 +88,17 @@ body {
         font-weight: bold;
     }
 
+#createPost {
+    background-color: #357960;
+    color: white;
+    border-radius: 20px;
+}
+
+.sidebar a.active button.active {
+    font-weight: bold;
+}
+
+
 .fa {
     margin-right: 20px;
 }
@@ -106,7 +120,9 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 5px #ccc;
     padding: 10px;
-    margin-left:10px;
+
+    margin-left: 10px;
+
     margin-bottom: 20px;
     flex-basis: calc(33.33% - 20px);
     box-sizing: border-box;
@@ -137,32 +153,14 @@ body {
 }
 
 
-
-.testmonial-wrapper {
-    background: #eaf0fc;
-    box-shadow: 0 2px 5px 0 rgba(173, 181, 189, 0.4) !important;
-    border-radius: 0.2rem;
-    padding: 0 20px 20px;
-    margin-bottom: 60px;
+.icon-link:hover h4.post-title {
+    color: red; /* Change the color to your desired value */
 }
 
-    .testmonial-wrapper:hover {
-        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    }
 
-    .testmonial-wrapper img {
-        width: 80px;
-        height: 80px;
-        border-radius: 50%;
-        margin-bottom: 15px;
-        -webkit-transform: translateY(-45px);
-        -ms-transform: translateY(-45px);
-        transform: translateY(-45px);
-        background: white;
-        padding: 5px;
-    }
-
-    .testmonial-wrapper .title {
-        margin-top: -40px;
-    }
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
 
