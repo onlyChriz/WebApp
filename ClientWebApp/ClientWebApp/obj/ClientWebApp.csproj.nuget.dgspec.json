@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boffe\\source\\repos\\ClientWebApp\\ClientWebApp\\ClientWebApp.csproj": {}
+    "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/ClientWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boffe\\source\\repos\\ClientWebApp\\ClientWebApp\\ClientWebApp.csproj": {
+    "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/ClientWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boffe\\source\\repos\\ClientWebApp\\ClientWebApp\\ClientWebApp.csproj",
+        "projectUniqueName": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/ClientWebApp.csproj",
         "projectName": "ClientWebApp",
-        "projectPath": "C:\\Users\\boffe\\source\\repos\\ClientWebApp\\ClientWebApp\\ClientWebApp.csproj",
-        "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boffe\\source\\repos\\ClientWebApp\\ClientWebApp\\obj\\",
+        "projectPath": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/ClientWebApp.csproj",
+        "packagesPath": "/Users/juliasong/.nuget/packages/",
+        "outputPath": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/juliasong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

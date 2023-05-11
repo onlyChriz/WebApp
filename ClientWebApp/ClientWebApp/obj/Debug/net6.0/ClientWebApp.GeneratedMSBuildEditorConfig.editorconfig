@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientWebApp
-build_property.ProjectDir = C:\Users\boffe\source\repos\ClientWebApp\ClientWebApp\
+build_property.ProjectDir = /Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/

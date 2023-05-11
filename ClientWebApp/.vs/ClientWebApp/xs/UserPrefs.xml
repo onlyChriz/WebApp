@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AAC7B055-A2E0-4117-8158-D8C4D6DFC9FC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClientWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientWebApp/BlogPostsMenu.cs">
+    <Files>
+      <File FileName="ClientWebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="ClientWebApp/BlogPostsMenu.cs" Line="89" Column="46" />
+      <File FileName="ClientWebApp/BlogPosts.cs" Line="27" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClientWebApp" expanded="True">
+            <Node name="ClientWebApp" expanded="True">
+              <Node name="BlogPostsMenu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/BlogPostsMenu.cs" relfile="ClientWebApp/BlogPostsMenu.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

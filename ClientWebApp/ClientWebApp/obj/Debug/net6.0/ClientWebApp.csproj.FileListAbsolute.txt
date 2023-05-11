@@ -1,0 +1,15 @@
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.csproj.AssemblyReference.cache
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.AssemblyInfoInputs.cache
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.AssemblyInfo.cs
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.csproj.CoreCompileInputs.cache
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/bin/Debug/net6.0/ClientWebApp
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/bin/Debug/net6.0/ClientWebApp.deps.json
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/bin/Debug/net6.0/ClientWebApp.runtimeconfig.json
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/bin/Debug/net6.0/ClientWebApp.dll
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/bin/Debug/net6.0/ClientWebApp.pdb
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.dll
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/refint/ClientWebApp.dll
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.pdb
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ClientWebApp.genruntimeconfig.cache
+/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/ClientWebApp/ClientWebApp/obj/Debug/net6.0/ref/ClientWebApp.dll

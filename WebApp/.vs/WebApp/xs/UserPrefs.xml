@@ -1,32 +1,40 @@
 ﻿<Properties StartupConfiguration="{FF3DD261-965F-46AC-AD2B-D45820C3019D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/wwwroot/css/site.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/Pages/Models/Domain/Posts.cs">
     <Files>
-      <File FileName="WebApp/Pages/Index.cshtml" Line="59" Column="49" />
-      <File FileName="WebApp/wwwroot/css/site.css" Line="150" Column="50" />
+      <File FileName="WebApp/Pages/Index.cshtml" />
+      <File FileName="WebApp/wwwroot/css/site.css" />
+      <File FileName="WebApp/Data/BlogPosts.cs" Line="5" Column="18" />
+      <File FileName="WebApp/Pages/Models/Domain/Posts.cs" Line="1" Column="1" />
+      <File FileName="WebApp/Data/ApplicationDbContext.cs" Line="10" Column="10" />
+      <File FileName="WebApp/Pages/Index.cshtml.cs" />
+      <File FileName="WebApp/API/Controllers/ValuesController.cs" />
+      <File FileName="WebApp/Pages/Users/Posts/Add.cshtml" />
+      <File FileName="WebApp/Pages/Shared/_Layout.cshtml" />
+      <File FileName="WebApp/Pages/Shared/_Layout.cshtml.css" />
+      <File FileName="WebApp/Pages/Users/Posts/Add.cshtml.cs" Line="16" Column="10" />
+      <File FileName="WebApp/Pages/Users/Posts/Edit.cshtml" />
+      <File FileName="WebApp/Pages/Users/Posts/Lists.cshtml" />
+      <File FileName="WebApp/appsettings.json" />
+      <File FileName="WebApp/API/Controllers/PostsController.cs" Line="17" Column="6" />
+      <File FileName="WebApp/Pages/ViewHolder/AddBlogPost.cs" />
+      <File FileName="WebApp/Program.cs" Line="29" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebApp" expanded="True">
             <Node name="WebApp" expanded="True">
-              <Node name="Data" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" expanded="True" />
-                </Node>
+                <Node name="Models" expanded="True" />
+                <Node name="Users" expanded="True" />
+                <Node name="ViewHolder" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" />
                 <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="site.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
                 <Node name="lib" expanded="True">
                   <Node name="jquery" expanded="True" />
                 </Node>
@@ -38,4 +46,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
