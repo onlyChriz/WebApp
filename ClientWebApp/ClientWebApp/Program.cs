@@ -1,11 +1,11 @@
-﻿namespace Client_Webapp
+﻿namespace ClientWebApp
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            var blogMenu = new Contentmenu();
-            blogMenu.RunMenu();
+            BlogPostMenu blogPostMenu = new BlogPostMenu();
+            blogPostMenu.RunMenu();
         }
     }
 }
