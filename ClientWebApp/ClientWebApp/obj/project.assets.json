@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oli_r\\.nuget\\packages\\": {}
+    "C:\\Users\\boffe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oli_r\\source\\repos\\OurClientWebApp\\Client_Webapp\\Client_Webapp.csproj",
+      "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\ClientWebApp\\ClientWebApp\\Client_Webapp.csproj",
       "projectName": "Client_Webapp",
-      "projectPath": "C:\\Users\\oli_r\\source\\repos\\OurClientWebApp\\Client_Webapp\\Client_Webapp.csproj",
-      "packagesPath": "C:\\Users\\oli_r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oli_r\\source\\repos\\OurClientWebApp\\Client_Webapp\\obj\\",
+      "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\ClientWebApp\\ClientWebApp\\Client_Webapp.csproj",
+      "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\ClientWebApp\\ClientWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oli_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

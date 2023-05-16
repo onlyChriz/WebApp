@@ -2941,19 +2941,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oli_r\\.nuget\\packages\\": {}
+    "C:\\Users\\boffe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\oli_r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oli_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3023,24 +3023,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.15, 6.0.15]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3049,7 +3031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

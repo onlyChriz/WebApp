@@ -235,3 +235,9 @@ C:\Users\oli_r\source\repos\OurWebApp\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle
 C:\Users\oli_r\source\repos\OurWebApp\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\oli_r\source\repos\OurWebApp\WebApp\WebApp\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\oli_r\source\repos\OurWebApp\WebApp\WebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\boffe\OneDrive\Dokument\GitHub\WebApp\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

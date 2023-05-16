@@ -98,6 +98,8 @@ namespace Client_Webapp
 
             HttpResponseMessage response = httpClient.PostAsync(uri, stringContent).Result;
 
+            Console.WriteLine(json);
+
             if (response.IsSuccessStatusCode)
             {
 
