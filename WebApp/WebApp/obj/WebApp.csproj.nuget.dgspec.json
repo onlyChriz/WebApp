@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
+        "projectPath": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\oli_r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oli_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.15, )"
@@ -59,6 +67,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -72,6 +84,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -80,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

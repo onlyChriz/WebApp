@@ -1,12 +1,18 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using WebApp.API.Interfaces;
+using WebApp.API.Repository;
 using WebApp.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
+builder.Services.AddControllers();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); //ADDED
+builder.Services.AddEndpointsApiExplorer(); //ADDED
+builder.Services.AddSwaggerGen(); //ADDED
+builder.Services.AddScoped<IBlogPostsRepository, BlogPostsRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("WebAppDbConnectionString")));
@@ -23,11 +29,13 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
+
+    app.UseSwagger(); //ADDED
+    app.UseSwaggerUI(); //ADDED
 }
 else
 {
     app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -40,5 +48,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();
+app.MapControllers();//ADDED
 
 app.Run();

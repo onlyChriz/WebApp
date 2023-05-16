@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Client_Webapp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var blogMenu = new Contentmenu();
+            blogMenu.RunMenu();
+        }
+    }
+}
