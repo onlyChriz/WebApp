@@ -33,7 +33,7 @@ namespace WebApp.Pages.Users.Posts
             ApplicationDbContext.BlogPosts.Add(post);
             ApplicationDbContext.SaveChanges();
 
-            return Redirect("/Index");
+            return RedirectToPage("/Users/Posts/Lists");
 
         }
     }

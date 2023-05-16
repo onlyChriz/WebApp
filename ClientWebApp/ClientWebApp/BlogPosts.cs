@@ -1,28 +1,34 @@
-﻿using System;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace ClientWebApp
+namespace Client_Webapp
 {
-	public class BlogPosts
-	{
+    public class BlogPosts
+    {
         [JsonPropertyName("id")]
         public int Id { get; set; }
-        [JsonPropertyName("pageTitle")]
-        public string PageTitle { get; set; }
-        [JsonPropertyName("content")]
-        public string Content { get; set; }
-        [JsonPropertyName("publishedDate")]
-        public DateTime PublishedDate { get; set; }
+        
         [JsonPropertyName("author")]
         public string Author { get; set; }
+        
+        [JsonPropertyName("content")]
+        public string Content { get; set; }
+        
+        [JsonPropertyName("pageTitle")]
+        public string Pagetitle { get; set; }
+        
+        [JsonPropertyName("publishedDate")]
+        public DateTime Publisheddate { get; set; }
 
-        public BlogPosts(int id, string PageTitle, string Content, DateTime PublishedData, string Author)
+
+
+
+        public BlogPosts(int id, string author, string content, string pagetitle, DateTime publisheddate)
         {
-            this.Id = id;
-            this.PageTitle = PageTitle;
-            this.Content = Content;
-            this.PublishedDate = PublishedDate;
-            this.Author = Author;
+            Id = id;
+            Author = author;
+            Content = content;
+            Pagetitle = pagetitle;
+            Publisheddate = publisheddate;
         }
 
         public BlogPosts()
@@ -31,4 +37,3 @@ namespace ClientWebApp
         }
     }
 }
-

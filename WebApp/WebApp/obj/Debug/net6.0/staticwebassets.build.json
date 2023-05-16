@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "BxQcNIA5prmTNWBrj8OtX8bZP9FBL0rs7RdVxy8/oWw=",
+=======
+  "Hash": "iA1JWkPVr9GWMuLNNmeFIIF/XNug9YvOF8PgTmZ7KIs=",
+>>>>>>> main
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "WebApp/wwwroot",
       "Source": "WebApp",
+<<<<<<< HEAD
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/css/site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\css\\site.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,6 +46,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/css/site.css"
     },
     {
@@ -38,6 +54,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\favicon.ico",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,6 +73,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/favicon.ico"
     },
     {
@@ -55,6 +81,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\js\\site.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,6 +100,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/js/site.js"
     },
     {
@@ -72,6 +108,151 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -82,6 +263,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
@@ -89,6 +271,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -99,6 +290,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
@@ -106,6 +298,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -116,6 +317,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
@@ -123,6 +325,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -133,6 +344,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
@@ -140,6 +352,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -150,6 +371,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
@@ -157,6 +379,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -167,6 +398,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
@@ -174,6 +406,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -184,6 +425,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
@@ -191,6 +433,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,6 +452,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -208,6 +460,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -218,6 +479,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
@@ -225,6 +487,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -235,6 +506,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
@@ -242,6 +514,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -252,6 +533,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
@@ -259,6 +541,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -269,6 +560,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
@@ -276,6 +568,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -286,6 +587,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
@@ -293,6 +595,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -303,6 +614,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
@@ -310,6 +622,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -320,6 +641,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
@@ -327,6 +649,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,6 +668,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -344,6 +676,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -354,6 +695,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
@@ -361,6 +703,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -371,6 +722,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
@@ -378,6 +730,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -388,6 +749,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
@@ -395,6 +757,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -405,6 +776,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
@@ -412,6 +784,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -422,6 +803,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
@@ -429,6 +811,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -439,6 +830,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
@@ -446,6 +838,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -456,6 +857,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
@@ -463,6 +865,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,6 +884,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -616,6 +1028,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,6 +1047,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
@@ -633,6 +1055,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,6 +1074,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
@@ -650,6 +1082,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,6 +1101,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
@@ -667,6 +1109,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,6 +1128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
@@ -684,6 +1136,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,6 +1155,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
@@ -701,6 +1163,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,6 +1182,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
@@ -718,6 +1190,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,6 +1209,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
@@ -735,6 +1217,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,6 +1236,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
@@ -752,6 +1244,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,6 +1263,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
@@ -769,6 +1271,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,6 +1290,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
@@ -786,6 +1298,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,6 +1317,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
@@ -803,6 +1325,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,6 +1344,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
@@ -820,6 +1352,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,6 +1371,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/bootstrap/LICENSE"
     },
     {
@@ -837,6 +1379,168 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -847,6 +1551,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
@@ -854,6 +1559,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -864,6 +1578,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
@@ -871,6 +1586,15 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\",
+>>>>>>> main
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -881,6 +1605,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.15/staticwebassets/V5/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
@@ -1041,6 +1766,15 @@
       "SourceId": "WebApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/obj/Debug/net6.0/scopedcss/bundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "SourceId": "WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.styles.css",
       "AssetKind": "All",
@@ -1051,6 +1785,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css"
     },
     {
@@ -1058,6 +1793,15 @@
       "SourceId": "WebApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "SourceId": "WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,6 +1812,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css"
     },
     {
@@ -1075,6 +1820,15 @@
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "OriginalItemSpec": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1842,17 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1866,17 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/js/site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1122,10 +1890,153 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1139,10 +2050,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1156,10 +2074,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1173,10 +2098,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +2122,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1207,10 +2146,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1224,10 +2170,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1241,10 +2194,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +2218,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1275,10 +2242,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1292,10 +2266,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1309,10 +2290,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +2314,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1343,10 +2338,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1360,10 +2362,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1377,10 +2386,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +2410,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1411,10 +2434,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1428,10 +2458,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1445,10 +2482,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +2506,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1479,10 +2530,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1496,10 +2554,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1513,10 +2578,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1530,6 +2602,7 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
@@ -1670,6 +2743,12 @@
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1683,10 +2762,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1700,10 +2786,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1717,10 +2810,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1734,10 +2834,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1751,10 +2858,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1768,10 +2882,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1785,10 +2906,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1802,10 +2930,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1819,10 +2954,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1836,10 +2978,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1853,10 +3002,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +3026,17 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1887,10 +3050,170 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1904,10 +3227,17 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1921,10 +3251,17 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juliasong/Documents/OPA/Part 5 - OOP Advanced/Inlämningsuppgift/Inlämningsuppgift 3 - Web Applikation, API och Klient /WebApp/WebApp/WebApp/wwwroot/",
+=======
+      "Identity": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oli_r\\source\\repos\\OurWebApp\\WebApp\\WebApp\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
